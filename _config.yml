@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenting Li / Homepages"
+title                    : "Wenting Li"
 title_separator          : "-"
 name                     : &name "Wenting Li"
 description              : &description "personal description"
 url                      : https://Wendy0601.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wendy0601/Wendy0601.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  'lwt.JPG'# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenting Li"
-  avatar           : "lwt.JPG"
+  avatar           : "wenting.png"
   bio              : "She is a PhD Candidate of Rensselaer Polytechnics Institute"
   location         : "2408 21st street, Troy, NY 12180"
   employer         :
