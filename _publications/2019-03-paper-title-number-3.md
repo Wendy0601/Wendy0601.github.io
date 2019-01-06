@@ -22,7 +22,7 @@ probability. The performance of our scheme is validated through
 simulations of faults of various types in the IEEE 68-bus power
 system under varying load conditions, system observability and
 measurement quality.'
-date: 2015-10-01
+date: 2019-03 
 venue: 'IEEE Power System Transaction'
 paperurl: 'http://academicpages.github.io/files/fault.pdf'
 citation: 'Wenting Li, Deepjyoti Deka, Michael Chertkov, Meng Wang. ''Real-time Fault Localization in Power Grids With Convolutional Neural Networks'', IEEE Power System Transaction, 2019'
