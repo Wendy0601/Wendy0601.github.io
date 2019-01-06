@@ -2,7 +2,7 @@
 title: "Real-Time Event Identification Through Low-Dimensional Subspace Characterization of High-Dimensional Synchrophasor Data"
 collection: publications
 permalink: /publication/2018-01-23-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is to employ the spatial-temporal data matrix of power grid for event identification in real-time. Subspaces are the first to be defined as the signitures of various types of events, and the physical interpretations of these subspaces are related to the type of events, and thus a dictionary of small size is constructed to identify new events online.'
 date: 2018-01-23.
 venue: 'IEEE Power System Transaction'
 paperurl: 'http://Wendy0601.github.io/files/disturbance_journal.pdf'
