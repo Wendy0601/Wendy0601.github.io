@@ -1,6 +1,5 @@
 ---
-title: "Fast Event Identification through Subspace
-Characterization of PMU Data in Power Systems"
+title: "Fast Event Identification through Subspace Characterization of PMU Data in Power Systems"
 collection: publications
 permalink: /publication/2017-07-16-Fast Event Identification through Subspace
 Characterization of PMU Data in Power Systems
