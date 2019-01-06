@@ -24,7 +24,7 @@ system under varying load conditions, system observability and
 measurement quality.'
 date: 2019-03-01 
 venue: 'IEEE Power System Transaction'
-paperurl: 'http://Wendy0601.github.io/files/fault.pdf'
+paperurl: 'http://Wendy0601.github.io/files/Real-time Fault Localization in Power Grids With.pdf'
 citation: 'Wenting Li, Deepjyoti Deka, Michael Chertkov, Meng Wang. ''Real-time Fault Localization in Power Grids With Convolutional Neural Networks'', IEEE Power System Transaction, 2019'
 ---
 Diverse fault types, fast re-closures and complicated
@@ -48,6 +48,6 @@ simulations of faults of various types in the IEEE 68-bus power
 system under varying load conditions, system observability and
 measurement quality.
 
-[Download paper here](http://Wendy0601.github.io/files/fault.pdf)
+[Download paper here](http://Wendy0601.github.io/files/Real-time Fault Localization in Power Grids With.pdf)
 
 Recommended citation: Wenting Li, Deepjyoti Deka, Michael Chertkov, Meng Wang. ''Real-time Fault Localization in Power Grids With Convolutional Neural Networks'', IEEE Power System Transaction, 2019.
