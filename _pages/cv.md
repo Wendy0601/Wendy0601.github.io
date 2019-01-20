@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Electrical Engineering
-  * Harbin Institute of Technology (HIT), Harbin, China, 2013
-* Research Assistant  
-  * Shanghai Jiao Tong University (SJTU), Shanghai, China, 2015
-* Ph.D in Electrical Engineering
-  * Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
+* Harbin Institute of Technology (HIT), Harbin, China, 2013
+  * B.Sc. in Electrical Engineering
+* Shanghai Jiao Tong University (SJTU), Shanghai, China, 2015
+  * Research Assistant  
+* Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
+  * Ph.D in Electrical Engineering
   
 Work experience
 ======
-* Summer 2018: Research Assistant
-  * Los Alamos National Laboratory (LANL), NM
+* Summer 2018: Los Alamos National Laboratory (LANL), NM
+  * Research Assistant
   * Research Topic: Real-time Fault Location through Convolutional Neural Network
   * Duties: Lead the research of locating faults with data-driven algorithm.  
             Propose novel ideas, design and implement experiments.
@@ -31,10 +31,8 @@ Work experience
   
 Skills
 ======
-* Coding and algorithms
-  * Python, Matlab, R, C, machine/deep learing, approximation algorithms, statistics, optimization, probabilistic graph model 
-* Software
-  * Tensorflow, Jupyter Notebook, Latex, Scikit-learn, Microsoft Office, Django, Flask, CVX, AMPL, PSCAD, PSSE
+* Python, Matlab, R, C, machine/deep learing, approximation algorithms, statistics, optimization, probabilistic graph model 
+* Tensorflow, Jupyter Notebook, Latex, Scikit-learn, Microsoft Office, Django, Flask, CVX, AMPL, PSCAD, PSSE 
 * Language: Chinese (native) and English
 
 Publications
@@ -42,7 +40,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+     
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -55,9 +53,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Rewards and Service 
 ======
-* member of smart grid publication committee
+* Founders Award of Excellence, 2018 (top 1%)
+* North America Finalist of IBM Watson Build Challenge, 2017
+* The excellent new PhD Student Scholarship, 2013 (Top 1%)
+* Peoples Scholarship (Top 3%) & National Encouragement Scholarship, 2012 (Top 2%)
+* Honorable Mention Award of Mathematical Modeling, 2012
+* Member of smart grid publication committee
 * Reviewer of Smart Grid Transaction Journal
 * Reviewer of Power System Transaction Journal
 * Reviewer of Power Energy Scociety General Meeting
