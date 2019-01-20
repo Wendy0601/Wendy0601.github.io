@@ -57,4 +57,7 @@ Teaching
   
 Service and leadership
 ======
-* The vice president of the club in RPI
+* member of smart grid publication committee
+* Reviewer of Smart Grid Transaction Journal
+* Reviewer of Power System Transaction Journal
+* Reviewer of Power Energy Scociety General Meeting
