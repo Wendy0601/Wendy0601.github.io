@@ -20,8 +20,8 @@ Education
   
 Work experience
 ======
-* Summer 2018: Los Alamos National Laboratory (LANL), NM
-  * Research Assistant
+* Summer Intern as Research Assistant: 
+  * Los Alamos National Laboratory (LANL), NM, from May to August in 2018
   * Research Topic: Real-time Fault Location through Convolutional Neural Network
   * Duties: Lead the research of locating faults with data-driven algorithm.  
             Propose novel ideas, design and implement experiments.
