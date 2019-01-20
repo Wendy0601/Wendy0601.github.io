@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume](http://Wendy0601.github.io/files/Resume.pdf)
+
 Education
 ======
 * Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
