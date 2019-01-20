@@ -18,10 +18,10 @@ Education
 * Harbin Institute of Technology (HIT), Harbin, China, 2013
   * B.Sc. in Electrical Engineering 
   
-Work experience
+Work Experience
 ======
-* Summer Intern as Research Assistant: 
-  * Los Alamos National Laboratory (LANL), NM, from May to August in 2018
+* Summer Intern in 2018: 
+  * Los Alamos National Laboratory (LANL), NM
   * Research Topic: Real-time Fault Location through Convolutional Neural Network
   * Duties: Lead the research of locating faults with data-driven algorithm.  
             Propose novel ideas, design and implement experiments.
@@ -31,7 +31,7 @@ Work experience
   
 Skills
 ======
-* Python, Matlab, R, C, machine/deep learing, approximation algorithms, statistics, optimization, probabilistic graph model 
+* Python, Matlab, R, C, Machine/deep learing, Approximation algorithms, Statistics, Optimization 
 * Tensorflow, Jupyter Notebook, Latex, Scikit-learn, Microsoft Office, Django, Flask, CVX, AMPL, PSCAD, PSSE 
 * Language: Chinese (native) and English
 
