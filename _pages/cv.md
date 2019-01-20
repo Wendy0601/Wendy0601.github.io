@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Harbin Institute of Technology (HIT), Harbin, China, 2013
-  * B.Sc. in Electrical Engineering
-* Shanghai Jiao Tong University (SJTU), Shanghai, China, 2015
-  * Research Assistant  
 * Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
   * Ph.D in Electrical Engineering
+* Shanghai Jiao Tong University (SJTU), Shanghai, China, 2015
+  * Research Assistant  
+* Harbin Institute of Technology (HIT), Harbin, China, 2013
+  * B.Sc. in Electrical Engineering 
   
 Work experience
 ======
