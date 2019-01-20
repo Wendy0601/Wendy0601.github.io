@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.Sc. in Electrical Engineering
+  * Harbin Institute of Technology (HIT), Harbin, China, 2013
+* Research Assistant  
+  * Shanghai Jiao Tong University (SJTU), Shanghai, China, 2015
+* Ph.D in Electrical Engineering
+  * Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Assistant
+  * Los Alamos National Laboratory (LANL), NM
+  * Research Topic: Real-time Fault Location through Convolutional Neural Network
+  * Duties: Lead the research of locating faults with data-driven algorithm.  
+            Propose novel ideas, design and implement experiments.
+            Present the results by poster and slides to a diversity of audiences. 
+  * Supervisor: Michael Chertkov, Deepjyoti Deka 
+	
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding and algorithms
+  * Python, Matlab, R, C, machine/deep learing, approximation algorithms, statistics, optimization, probabilistic graph model 
+* Software
+  * Tensorflow, Jupyter Notebook, Latex, Scikit-learn, Microsoft Office, Django, Flask, CVX, AMPL, PSCAD, PSSE
+* Language: Chinese (native) and English
 
 Publications
 ======
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* The vice president of the club in RPI
