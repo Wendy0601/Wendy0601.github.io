@@ -1,6 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/profile.png'>"
+title: "Bayesian Network Learning and Inference"
+excerpt: " This project related the features to the target and construct a Bayesian Network. The purpose is to classify the target by learning the BN structure. 
+* The hill-climing learning algoirhtm is implemented to determine the BN structure;
+* the Maximum Likelihood method to optimize the network parameter 
+* The target is obtained via the Maximum A Posterior (MAP) inference.  
+<br/><img src='/images/BN.png'>"
 collection: portfolio
 ---
 
