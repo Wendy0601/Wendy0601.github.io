@@ -65,4 +65,4 @@ Rewards and Service
 * Member of smart grid publication committee
 * Reviewer of Smart Grid Transaction Journal
 * Reviewer of Power System Transaction Journal
-* Reviewer of Power Energy Scociety General Meeting
+* Reviewer of Power Energy Scociety General Meeting 
