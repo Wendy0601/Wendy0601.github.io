@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Wenting Li"
   avatar           : "wenting.png"
-  bio              : "She is a PhD Candidate of Rensselaer Polytechnics Institute"
+  bio              : "Love is near."
   location         : "2408 21st street, Troy, NY 12180"
   employer         :
-  googlescholar    : ""
+  googlescholar    :  
   email            : 'liw14@rpi.edu'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            :  
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :  
   vine             :
   weibo            :
   xing             :
