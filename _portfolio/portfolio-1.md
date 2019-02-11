@@ -8,4 +8,4 @@ excerpt: " This project related the features to the target and construct a Bayes
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  
+[Download Here](http://Wendy0601.github.io/files/PGM_Proj2_Fall18_LiWenting_new.pdf)
