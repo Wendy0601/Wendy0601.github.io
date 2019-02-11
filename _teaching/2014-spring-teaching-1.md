@@ -8,5 +8,4 @@ date: 2019-01-09
 location: "Troy, NY, USA"
 ---
 
-What I learned from this experience: 1, Stay hungry and stay foolish! 2, teaching is a good way of learning!
  
