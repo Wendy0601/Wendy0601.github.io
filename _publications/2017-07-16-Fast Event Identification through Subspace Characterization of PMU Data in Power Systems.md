@@ -2,12 +2,7 @@
 title: "Fast Event Identification through Subspace Characterization of PMU Data in Power Systems"
 collection: publications
 permalink: /publication/2017-07-16-Fast Event Identification through Subspace Characterization of PMU Data in Power Systems
-excerpt: 'This paper proposes a data-driven fast event identification method based on the measurements of Phasor Measurement Units (PMUs). The central idea is to characterize an
-event by the low-dimensional subspace spanned by the dominant
-singular vectors of a data matrix that contains spatial-temporal
-blocks of PMU data. A dictionary of subspaces that correspond
-to different events are established off-line, and an event is
-identified online with the most similar subspace in the dictionary.'
+excerpt:  
 date: 2017-07-16
 venue: '2017 IEEE Power & Energy Society General Meeting'
 paperurl: 'http://Wendy0601.github.io/files/fast.pdf'
