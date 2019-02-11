@@ -12,8 +12,9 @@ Wenting Li is a PhD candidate in the department of Electrical Computer and Syste
 ---
 ## Her research interests include
 * Feature extraction from high-dimensional data to identify events in power grids
-* Identification and Location with convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long-Short Term Memory (LSTM)
-* Learning and inference using Bayesian and Markov model 
+* Identification and classification of dynamic datasets
+* Localization in the undirected graph
+* Learning and inference using Bayesian network and Markov model  
 * Matrix decomposition, low-rank, sparsity
 * Approximation algorithms, game theory
 
