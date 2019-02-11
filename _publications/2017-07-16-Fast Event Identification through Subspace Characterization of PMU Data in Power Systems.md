@@ -15,14 +15,4 @@ robust to system initial conditions. This compact representation reduces the dic
 event identification method. The proposed method is evaluated numerically on simulated events in an IEEE 68-bus power systems.
 
 [Download paper here](http://Wendy0601.github.io/files/fast.pdf)
-
-Recommended citation: Wenting Li, Meng Wang, and Joe H. Chow. "Fast event identification through subspace characterization of pmu data in power systems." In Proc. IEEE Power & Energy Society General Meeting, 2017.
-BibTex:
-@inproceedings{li2017fast,
-  title={Fast event identification through subspace characterization of pmu data in power systems},
-  author={Li, Wenting and Wang, Meng and Chow, Joe H},
-  booktitle={Power \& Energy Society General Meeting, 2017 IEEE},
-  pages={1--5},
-  year={2017},
-  organization={IEEE}
-}
+ 
