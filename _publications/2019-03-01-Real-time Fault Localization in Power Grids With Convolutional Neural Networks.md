@@ -3,7 +3,7 @@ title: "Real-time Fault Localization in Power Grids With Convolutional Neural Ne
 collection: publications
 permalink: /publication/2018-Oct-submitted 
 venue: 'IEEE Power System Transaction'
-excerpt: ""
+excerpt: 'This paper proposes to employ deep learning to locate faulted line'
 date: 2019-03-01
 paperurl: 'http://Wendy0601.github.io/files/Real-time Fault Localization in Power Grids With.pdf'
 citation: 'Wenting Li, Deepjyoti Deka, Michael Chertkov, Meng Wang. ''Real-time Fault Localization in Power Grids With Convolutional Neural Networks'', IEEE Power System Transaction, 2019'
