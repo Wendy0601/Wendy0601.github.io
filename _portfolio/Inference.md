@@ -4,4 +4,4 @@ excerpt: "This project establish a Bayesian Network to diagnose congenital heart
 collection: portfolio
 --- 
 This is an item in your portfolio. 
-[Download here] (http://Wendy0601.github.io/files/Approximate_Inference.pdf)
+[Download here](http://Wendy0601.github.io/files/Approximate_Inference.pdf)
