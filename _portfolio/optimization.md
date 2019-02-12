@@ -5,4 +5,4 @@ collection: portfolio
 ---
 This propose implement multiple optimization algorithm to factorize the nonnegative matrix, and then employ the approximate Gradient
 Descent to separate background and foreground
-[Download Here](http://Wendy0601.github.io/files/Proj_application of block coordinate update method.pdf)
+[Download Here](http://Wendy0601.github.io/files/alg_cmp.pdf)
