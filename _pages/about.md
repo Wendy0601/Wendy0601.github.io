@@ -18,9 +18,3 @@ Wenting Li is a PhD candidate in the department of Electrical Computer and Syste
 * Matrix decomposition, low-rank, sparsity
 * Approximation algorithms, game theory
 
----
-## Contact Information
-* Email: liw14@rpi.edu
-* Github: https://github.com/Wendy0601
-* Office: 6308, JEC, RPI, Troy, NY 12180
-* Address: 2408, 21st Street, Apt 6, Troy, NY 12180
