@@ -1,11 +1,3 @@
----
-title: "Contact Information"
-collection: talks
-type: "Talk"
-permalink: /talks/contact
-venue: ""
-date: 2018-12-04
-location: ""
 --- 
 ## Contact Information
 * Email: liw14@rpi.edu
