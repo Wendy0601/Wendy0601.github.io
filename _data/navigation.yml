@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /talks/    
+    url: /Research/    
 
   #- title: "Teaching"
     #url: /teaching/    
@@ -22,7 +22,7 @@ main:
    # url: /markdown/
    
  - title: "Code"
-   url: /codes/
+   url: /Codes/
    
  - title: "Contact"
-   url: /contact/
+   url: /Contact/
