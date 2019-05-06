@@ -1,12 +1,6 @@
----
-title: "Modeling and Analysis of Uncertainty"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2018-spring
-venue: "Rensselaer Polytechnics Institute, ECSE Department"
-date: 2019-01-09
-location: "Troy, NY, USA"
----
-
- 
-Continue...
+--- 
+## Contact Information
+* Email: liw14@rpi.edu
+* Github: https://github.com/Wendy0601
+* Office: 6308, JEC, RPI, Troy, NY 12180
+* Address: 2408, 21st Street, Apt 6, Troy, NY 12180
