@@ -8,4 +8,4 @@ venue: 'IEEE Power System Transaction'
 paperurl: 'http://Wendy0601.github.io/files/disturbance_journal.pdf' 
 --- 
 [Paper](http://Wendy0601.github.io/files/disturbance_journal.pdf)
-[BiB](http://Wendy0601.github.io/files/Event.txt)
+[BiB](http://Wendy0601.github.io/files/Event.bib)  
