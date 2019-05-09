@@ -1,10 +1,7 @@
 ---
 title: "Contact Information:"
-collection: teaching
-type: ""
-permalink: /teaching/contact
-venue: ""
-date: 2019-01-01
+collection: teaching 
+permalink: /teaching/contact  
 location: "Troy, USA"
 --- 
 * Email: liw14@rpi.edu
