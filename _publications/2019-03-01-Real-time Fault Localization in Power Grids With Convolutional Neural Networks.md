@@ -2,11 +2,11 @@
 title: "Real-time Fault Localization in Power Grids With Convolutional Neural Networks"
 collection: publications
 permalink: /publication/2018-Oct-submitted 
-venue: 'IEEE Power System Transaction'
-excerpt: ''
-date: 2019-03-01
-paperurl: 'http://Wendy0601.github.io/files/Location.pdf' 
+venue: 'IEEE Power System Transaction' 
+date: 2019-03-01 
 --- 
 
-[Download paper here](http://Wendy0601.github.io/files/Location.pdf)
+[Paper](http://Wendy0601.github.io/files/Location.pdf)
+[Slides](http://Wendy0601.github.io/files/Fault_location_slides.pdf)
+[Poster](http://Wendy0601.github.io/files/Fault_location_poster.pdf)
  
