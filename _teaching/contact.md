@@ -1,8 +1,6 @@
 ---
-title: "Contact Information:"
-collection: teaching 
-permalink: /teaching/contact  
-location: "Troy, USA"
+title: "Contact Information:" 
+permalink: /teaching/contact   
 --- 
 * Email: liw14@rpi.edu
 * Github: https://github.com/Wendy0601
