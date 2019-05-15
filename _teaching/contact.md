@@ -1,6 +1,5 @@
 ---
-title: "Contact Information:" 
-permalink: /teaching/contact   
+title: "Contact Information:"  
 --- 
 * Email: liw14@rpi.edu
 * Github: https://github.com/Wendy0601
