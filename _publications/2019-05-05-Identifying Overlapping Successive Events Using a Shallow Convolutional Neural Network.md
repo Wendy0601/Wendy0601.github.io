@@ -8,7 +8,7 @@ venue: 'IEEE Power System Transaction'
 [Paper](http://Wendy0601.github.io/files/main.pdf)
 [Slides](http://Wendy0601.github.io/files/IOSE.pdf)
 [Poster](http://Wendy0601.github.io/files/Poster_Identificaiton_overlapping.pdf)
-Bib:
+[Bib]:
 @article{LW19,
   title={Identifying Overlapping Successive Events Using a
 Shallow Convolutional Neural Network},
