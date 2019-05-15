@@ -3,10 +3,9 @@ title: "Identifying Overlapping Successive Events Using a Shallow Convolutional 
 collection: publications
 permalink: /publication/2019-05-05-Identifying Overlapping Successive Events Using a Shallow Convolutional Neural Network
 date: 2019-05-05. 
-venue: 'Li, Wenting and Wang, Meng, IEEE Power System Transaction'  
---- 
-
-
+venue: 'IEEE Power System Transaction'  
+excerpt:"Li, Wenting and Wang, Meng"
+---  
 [Paper](http://Wendy0601.github.io/files/main.pdf)
 [Slides](http://Wendy0601.github.io/files/IOSE.pdf)
 [Poster](http://Wendy0601.github.io/files/Poster_Identificaiton_overlapping.pdf) 
