@@ -6,4 +6,5 @@ date: 2019-05-05.
 venue: 'IEEE Power System Transaction' 
 --- 
 [Paper](http://Wendy0601.github.io/files/main.pdf)
-[Slides](http://Wendy0601.github.io/files/IOSE.pdf) 
+[Slides](http://Wendy0601.github.io/files/IOSE.pdf)
+[Poster](http://Wendy0601.github.io/files/Poster_Identificaiton_overlapping.pdf)
