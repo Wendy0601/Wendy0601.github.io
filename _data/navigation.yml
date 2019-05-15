@@ -21,6 +21,6 @@ main:
  # - title: "Guide"
    # url: /markdown/
   - title: "Code"
-    url: /Codes/ 
+    url: /portfolio/ 
   - title: "Contact"
-    url: /Contact/ 
+    url: /cv/ 
