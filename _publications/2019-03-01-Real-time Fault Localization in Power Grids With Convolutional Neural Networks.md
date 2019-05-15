@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-Oct-submitted 
 venue: 'IEEE Power System Transaction' 
 date: 2019-03-01 
-except: 'Li, Wenting and Deka, Deepjyoti and Chertkov, Michael and Wang, Meng"'
+excerpt: 'Li, Wenting and Deka, Deepjyoti and Chertkov, Michael and Wang, Meng"'
 --- 
 
 [Paper](http://Wendy0601.github.io/files/Location.pdf)
