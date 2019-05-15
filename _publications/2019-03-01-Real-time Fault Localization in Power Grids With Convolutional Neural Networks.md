@@ -1,5 +1,5 @@
 ---
-title: "Real-time Fault Localization in Power Grids With Convolutional Neural Networks"
+title: "Li, Wenting and Deka, Deepjyoti and Chertkov, Michael and Wang, Meng, Real-time Fault Localization in Power Grids With Convolutional Neural Networks"
 collection: publications
 permalink: /publication/2018-Oct-submitted 
 venue: 'IEEE Power System Transaction' 
