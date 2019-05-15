@@ -1,7 +1,6 @@
 ---
-title: 'Contact'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Contact Me' 
+permalink: /posts/2012/08/Contact1/
 tags:
   - cool posts
   - category1
@@ -18,3 +17,5 @@ You can have many headings
 
 Aren't headings cool?
 ------
+
+ 
