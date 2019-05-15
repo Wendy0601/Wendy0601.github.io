@@ -1,5 +1,5 @@
 ---
-title: "Identifying Overlapping Successive Events Using a Shallow Convolutional Neural Network, Li, Wenting and Wang, Meng "
+title: "Identifying Overlapping Successive Events Using a Shallow Convolutional Neural Network, Wenting Li and Meng Wang"
 collection: publications
 permalink: /publication/2019-05-05-Identifying Overlapping Successive Events Using a Shallow Convolutional Neural Network
 date: 2019-05-05. 
