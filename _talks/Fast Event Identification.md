@@ -1,7 +1,7 @@
 ---
 title: "Fast Event Identification through Subspace Characterization of PMU Data in Power Systems"
 collection: portfolio 
-excerpt: "This research learn a dictinary of subspace to identify events efficiently <br/><img src='/images/Dic.png'>" 
+excerpt: "This research learn a dictinary of subspace to identify events efficiently <br/><img src='/images/Dic1.jpg'>" 
 date: 2017-07-16 
 ---
 [Poster](http://Wendy0601.github.io/files/2017_PES_poster.pdf)
