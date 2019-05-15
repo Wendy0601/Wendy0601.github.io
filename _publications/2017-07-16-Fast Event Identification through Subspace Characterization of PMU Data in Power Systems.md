@@ -10,4 +10,5 @@ date: 2017-07-16
 [Paper](http://Wendy0601.github.io/files/fast.pdf) 
 [Poster](http://Wendy0601.github.io/files/2017_PES_poster.pdf)
 [Slides](http://Wendy0601.github.io/files/Fast_identification.pdf)
+[BiB](http://Wendy0601.github.io/files/BibFast.pdf)
  
