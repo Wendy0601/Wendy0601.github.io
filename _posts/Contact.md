@@ -1,6 +1,5 @@
 --- 
 date: 2019-05-16
-permalink: /posts/2019/05/blog-post-1/
 ---
 * Email: liw14@rpi.edu
 * Github: https://github.com/Wendy0601
