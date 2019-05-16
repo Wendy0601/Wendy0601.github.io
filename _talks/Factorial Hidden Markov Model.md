@@ -3,7 +3,7 @@ title: "Application of Factorial Hidden Markov Model (FHMM) to Non-intrusive Loa
 collection: talks
 type: "Course Project Presentation"
 permalink: /talks/2018-12-17-tutorial-1
-excerpt: "Implement the factorial hidden markov chain model (FHMM) to disaggregate loads <br/><img src='/images/powers.pdf'>"
+excerpt: "Implement the factorial hidden markov chain model (FHMM) to disaggregate loads <br/><img src='/images/FHMM.png'>"
 venue: "Rensselaer Polytechnics Institute, Troy NY, USA"
 date: 2018-12-17 
 ---
