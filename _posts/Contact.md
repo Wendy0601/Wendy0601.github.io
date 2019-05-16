@@ -1,7 +1,6 @@
----
-title: 'Contact Me'
+--- 
 date: 2019-05-15
-permalink: /posts/2019/05/blog-post-3/
+permalink: /posts/2019/05/Contact/
 ---
 * Email: liw14@rpi.edu
 * Github: https://github.com/Wendy0601
