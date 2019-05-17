@@ -1,7 +1,6 @@
---- 
---- 
-* Email: liw14@rpi.edu
-* Github: https://github.com/Wendy0601
-* Office: 6308, JEC, RPI, Troy, NY 12180
-* Address: 2408, 21st Street, Apt 6, Troy, NY 12180
- 
+---
+title: "Three Minutes Thesis Talk" 
+collection: portfolio
+---
+
+Enjoy it! https://mediasite.mms.rpi.edu/Mediasite5/Play/acbcaa7d77284c8789d17108813df2f
