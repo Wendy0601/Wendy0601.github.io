@@ -1,6 +1,6 @@
 ---
 title: "Three Minutes Thesis Talk"  
-collection: talks 
+collection: portfolio 
 date: 2019-04-20
 Location: Rensselaer Polytechnic Institute(RPI), Troy, NY, USA
 permalink: /teaching/2014-spring-teaching-1  
