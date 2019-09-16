@@ -25,9 +25,9 @@ Work Experience
 * Summer Intern in 2018: 
   * Los Alamos National Laboratory (LANL), NM
   * Research Topic: Real-time Fault Location through Convolutional Neural Network
-  * Duties: Lead the research of locating faults with data-driven algorithm.  
-            Propose novel ideas, design and implement experiments.
-            Present the results by poster and slides to a diversity of audiences. 
+  * Duties: 
+  Propose a real-time approach to locate faults in a network with high accuracy even only 7% of network
+nodes are observed, while other methods require 30% of nodes to be observed. Develop a node selection algorithm to determine the measured nodes, increasing 10% location accuracy.
   * Supervisor: Michael Chertkov, Deepjyoti Deka 
 	
   
@@ -43,13 +43,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
      
-Talks
+Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching 
+Personal 
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
