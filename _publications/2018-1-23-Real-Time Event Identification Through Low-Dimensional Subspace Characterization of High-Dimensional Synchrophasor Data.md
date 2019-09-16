@@ -7,17 +7,5 @@ venue: 'IEEE Power System Transaction'
 citation: 'W. Li, M. Wang and J. H. Chow, "Real-Time Event Identification Through Low-Dimensional Subspace Characterization of High-Dimensional Synchrophasor Data," in IEEE Transactions on Power Systems, vol. 33, no. 5, pp. 4937-4947, Sept. 2018.'
 --- 
 [Paper](http://Wendy0601.github.io/files/disturbance_journal.pdf)
-<pre>
-@article{LWC18,
-title={Real-time event identification through low-dimensional subspace characterization of high-dimensional synchrophasor data},
-author={Li, Wenting and Wang, Meng and Chow, Joe H},
-journal={IEEE Transactions on Power Systems},
-volume={33},
-number={5},
-pages={4937--4947},
-year={2018},
-publisher={IEEE}
-}
-</pre>
-
+ 
  
