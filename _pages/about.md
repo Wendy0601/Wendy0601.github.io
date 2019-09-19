@@ -19,5 +19,6 @@ Wenting Li is a PhD candidate in the department of Electrical Computer and Syste
 * Low-rank and sparsity of data
 * Markov Chain and Network Models
 * Learning and inference using Bayesian and Markov network 
-* Approximation algorithms, game theory
+* Approximation algorithms 
+* Game theory
 
