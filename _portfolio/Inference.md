@@ -5,9 +5,7 @@ using the Label-Observation MRF model. The labels are defined to represent the b
 and foreground respectively. The intensity is continuous observations. The Potts model is
 employed to model the correlations between any two nodes, and the intensity is assumed
 to follow the Gaussian distribution. The parameters of the
-MRF model are given, and the problem is to determine the labels of each nodes.
-<br/><img src='/images/noise.png'>,
-<br/><img src='/images/segment_plane.png'>"
+MRF model are given, and the problem is to determine the labels of each nodes. <br/><img src='/images/segment_plane.png'>"
 collection: portfolio
 --- 
 This is the report and codes.
