@@ -15,6 +15,8 @@ Education
 ======
 * Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
   * Ph.D in Electrical Engineering
+* Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
+  * Master in Applied Mathematics
 * Shanghai Jiao Tong University (SJTU), Shanghai, China, 2015
   * Research Assistant  
 * Harbin Institute of Technology (HIT), Harbin, China, 2013
