@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Network Learning and Inference"
-excerpt: " This project related the features to the target and construct a Bayesian Network. The purpose is to classify the target by learning the BN structure 
+excerpt: " This project related the features to the target and construct a Bayesian Network. The purpose is to classify the target by learning the BN structure" 
 collection: portfolio
 ---
 This project related the features to the target and construct a Bayesian Network. The purpose is to classify the target by learning the BN structure
