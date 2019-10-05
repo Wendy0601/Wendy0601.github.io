@@ -6,7 +6,7 @@ and foreground respectively. The intensity is continuous observations. The Potts
 employed to model the correlations between any two nodes, and the intensity is assumed
 to follow the Gaussian distribution. The parameters of the
 MRF model are given, and the problem is to determine the labels of each nodes.
-<br/><img src='/images/noise.png'>"
+<br/><img src='/images/noise.png'>,
 <br/><img src='/images/plane.png'>"
 collection: portfolio
 --- 
