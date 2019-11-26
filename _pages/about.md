@@ -11,7 +11,7 @@ Wenting Li is a PhD candidate in the department of Electrical Computer and Syste
 
 ---
 ## My Talks
-CURENT Power and Energy Seminar on Fri., Nov. 1 [https://curent.utk.edu/news/press-releases/wenting-li-rpi-give-curent-power-and-energy-seminar-fri-nov-1/]
+CURENT Power and Energy Seminar on Fri., Nov. 1 [here](https://curent.utk.edu/news/press-releases/wenting-li-rpi-give-curent-power-and-energy-seminar-fri-nov-1/)
 
 ## Her research interests include
 * Feature extraction from high-dimensional data 
