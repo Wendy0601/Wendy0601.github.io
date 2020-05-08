@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenting Li"
 title_separator          : "-"
 name                     : &name "Wenting Li"
-description              : &description "Ph.D. at RPI"
+description              : &description "Postdoc Research Associate at Los Alamos National Laboratory"
 url                      : https://Wendy0601.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wendy0601/Wendy0601.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             :   
   avatar           : "wenting.png"
-  bio              : "Ph.D. of Electrical Computer and System Engineering at RPI"
-  location         : "2408, 21st street, Troy, NY 12180" 
+  bio              : "Postdoc Research Associate at Los Alamos National Laboratory"
+  location         : "3269 Villa Street APT A, Los Alamos, 87544" 
   employer         :
   googlescholar    :  https://scholar.google.com/citations?user=acgZVaoAAAAJ&hl=en
-  email            :  'liw14@rpi.edu'
+  email            :  'wenting@lanl.gov'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
