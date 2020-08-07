@@ -12,6 +12,8 @@ Wenting Li is a Postdoc Research Associate at Los Alamos National Laboratory (LA
 ---
 ## Recent Talks
 CURENT Power and Energy Seminar on Fri., Nov. 1, 2019. [here](https://curent.utk.edu/news/press-releases/wenting-li-rpi-give-curent-power-and-energy-seminar-fri-nov-1/)
+Los Alamos National Laboratory Postdoc Seminar on July 14th, 2020.
+Big Data Analytics Sessions during the 2020 PES general meeting on August 3rd, 2020. [here](https://pes-gm.org/2020/)
 
 ## Her research interests include
 * High-dimensional data analysis
