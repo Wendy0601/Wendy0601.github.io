@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 Wenting Li is a Postdoc Research Associate at Los Alamos National Laboratory (LANL). She obtained the Ph.D. degree in  Electrical Computer and System Engineering (ECSE) and Master degree in Applied Mathematics at the [Rensselaer Polytechnics Institute (RPI)](https://www.rpi.edu/) in Dec. 2019.  Her supervisor is Prof. [Meng Wang](https://ecse.rpi.edu/~wang/). Her doctoral thesis is about developing machine/deep learning based algorithms to enhancing power systems monitoring and protection. Before she came to RPI in 2015, she worked as a research assistant in the Wind Farm Research Center (WFRC) at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) under the supervison of [Prof. Xu Cai](http://eei.sjtu.edu.cn/en/Show.aspx?info_id=433&info_lb=329&flag=282). In 2013, she received her B.S. degree in Elcetrical Engineering and Automation from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/). 
-
----
+ 
 ## News
 * 03/11/2021: Talk on a latest paper on neural networks verification for the optimization machine learning (OPTML) reading group.
 * 02/24/2021: A lighting talk for the DisrupTech: Robust fault location through graph-based learning at low label rates
