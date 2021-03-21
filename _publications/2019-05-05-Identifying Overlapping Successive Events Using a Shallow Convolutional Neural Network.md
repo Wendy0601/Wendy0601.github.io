@@ -8,6 +8,7 @@ citation: 'W. Li and M. Wang, "Identifying Overlapping Successive Events Using a
 ---  
 
 [Paper](http://Wendy0601.github.io/files/main.pdf)
+[Codes](https://github.com/Wendy0601/Identifying-Overlapping-Successive-Events-Using-a-Shallow-Convolutional-Neural-Network)
 [Slides](http://Wendy0601.github.io/files/IOSE.pdf)
 [Poster](http://Wendy0601.github.io/files/Poster_Identificaiton_overlapping.pdf) 
  
