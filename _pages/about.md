@@ -11,7 +11,7 @@ Wenting Li is a Postdoc Research Associate at Los Alamos National Laboratory (LA
 
 ---
 ## Recent Talks
-03/11/2021: Reinterpret one latest paper on neural networks verification for the optimization machine learning (OPTML) reading group.
+03/11/2021: Talk on a latest paper on neural networks verification for the optimization machine learning (OPTML) reading group.
 
 02/24/2021: A lighting talk for the DisrupTech: Robust fault location through graph-based learning at low label rates
 
