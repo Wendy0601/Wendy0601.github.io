@@ -11,19 +11,20 @@ Wenting Li is a Postdoc Research Associate at Los Alamos National Laboratory (LA
 
 ---
 ## Recent Talks
+03/11/2021: Reinterpret one latest paper on neural networks verification for the optimization machine learning (OPTML) reading group.
+
+02/24/2021: A lighting talk for the DisrupTech: Robust fault location through graph-based learning at low label rates
+
 08/03/2020: Big Data Analytics Sessions during the 2020 PES general meeting : Identifying Overlapping Successive Events Using a Shallow Convolutional Neural Network  [here](https://pes-gm.org/2020/)
 
 07/14/2020: Los Alamos National Laboratory Postdoc Seminar: Physics-informed Neural Networks for High Impedance Fault Detection.
 
 11/01/2019: CURENT Power and Energy Seminar: Real-time and Agile Data-driven Approaches Enabling Power Grids to be Smart. [here](https://curent.utk.edu/news/press-releases/wenting-li-rpi-give-curent-power-and-energy-seminar-fri-nov-1/)
 
-## Her research interests include
-* High-dimensional data analysis
-* Detection,  location, and classification of time series 
-* Deep learning models (CNN, RNN, LSTM, Autoencoder) 
-* Low-rank and sparsity of data
-* Markov Chain and Network Models
-* Learning and inference using Bayesian and Markov networks 
-* Approximation algorithms 
-* Game theory
+## Research interests 
+* Physics-informed machine learning
+* Graph learning and graph neural networks
+* Robust optimization and verified neural networks
+* Feature extraction from high-dimensional data  
+* Deep learning models Design (CNN, RNN, LSTM, Autoencoder)  
 

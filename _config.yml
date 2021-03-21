@@ -14,7 +14,7 @@ description              : &description "Postdoc Research Associate at Los Alamo
 url                      : https://Wendy0601.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wendy0601/Wendy0601.github.io"
-teaser                   :  'lwt.JPG'# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  'wenting.JPG'# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             :   
-  avatar           : "wenting.png"
+  avatar           : "wenting.jpg"
   bio              : "Postdoc Research Associate at Los Alamos National Laboratory"
   location         : "3269 Villa Str APT A, Los Alamos, 87544" 
   employer         :

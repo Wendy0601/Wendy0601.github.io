@@ -13,13 +13,11 @@ redirect_from:
 
 Education
 ======
-* Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
+* Rensselaer Polytechnic Institute (RPI), Troy, NY, 2015-2019
   * Ph.D in Electrical Engineering
-* Rensselaer Polytechnic Institute (RPI), Troy, NY, 2019
-  * Master in Applied Mathematics
-* Shanghai Jiao Tong University (SJTU), Shanghai, China, 2015
-  * Research Assistant  
-* Harbin Institute of Technology (HIT), Harbin, China, 2013
+* Rensselaer Polytechnic Institute (RPI), Troy, NY, 2017-2019
+  * Master in Applied Mathematics 
+* Harbin Institute of Technology (HIT), Harbin, China, 2009-2013
   * B.Sc. in Electrical Engineering 
   
 Work Experience
@@ -27,8 +25,7 @@ Work Experience
 * Summer Intern in 2018: 
   * Los Alamos National Laboratory (LANL), NM
   * Research Topic: Real-time Fault Location through Convolutional Neural Network
-  * Duties: 
-  Propose a real-time approach to locate faults in a network with high accuracy even only 7% of network
+  * Duties:  Propose a real-time approach to locate faults in a network with high accuracy even only 7% of network
 nodes are observed, while other methods require 30% of nodes to be observed. Develop a node selection algorithm to determine the measured nodes, increasing 10% location accuracy.
   * Supervisor: Michael Chertkov, Deepjyoti Deka 
 	
@@ -36,7 +33,7 @@ nodes are observed, while other methods require 30% of nodes to be observed. Dev
 Skills
 ======
 * Python, Matlab, R, C, Machine/deep learing, Approximation algorithms, Statistics, Optimization 
-* Tensorflow, Jupyter Notebook, Latex, Scikit-learn, Microsoft Office, Django, Flask, CVX, AMPL, PSCAD, PSSE 
+* Tensorflow, Pytorch, Jupyter Notebook, Latex, Scikit-learn, CVX, AMPL, PSCAD, PSSE 
 * Language: Chinese (native) and English
 
 Publications
