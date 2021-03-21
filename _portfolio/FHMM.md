@@ -2,7 +2,7 @@
 title: "Application of Factorial Hidden Markov Model (FHMM) to Non-intrusive Load Monitoring"
 collection: portfolio 
 permalink: /talks/2018-12-17-tutorial-1
-excerpt: "Implement the factorial hidden markov chain model (FHMM) to disaggregate loads <img src='/images/FHMM.png'  width="100">"
+excerpt: "Implement the factorial hidden markov chain model (FHMM) to disaggregate loads <img src='/images/FHMM.png'>"
 date: 2018-12-17 
 ---
 
