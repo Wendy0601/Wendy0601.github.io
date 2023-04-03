@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenting Li"
 title_separator          : "-"
 name                     : &name "Wenting Li"
-description              : &description "Postdoc Research Associate at Los Alamos National Laboratory"
+description              : &description "Scientist at Los Alamos National Laboratory"
 url                      : https://Wendy0601.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wendy0601/Wendy0601.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             :   
   avatar           : "Wenting.JPG"
-  bio              : "Postdoc Research Associate at Los Alamos National Laboratory"
+  bio              : "Scientist at Los Alamos National Laboratory"
   location         : "3269 Villa Str APT A, Los Alamos, 87544" 
   employer         :
   googlescholar    :  https://scholar.google.com/citations?user=acgZVaoAAAAJ&hl=en
