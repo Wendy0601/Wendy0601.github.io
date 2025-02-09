@@ -33,6 +33,7 @@ held in conjunction with 37th AAAI Conference on Artificial Intelligence.
 * 11/01/2019: CURENT Power and Energy Seminar: Real-time and Agile Data-driven Approaches Enabling Power Grids to be Smart. [here](https://curent.utk.edu/news/press-releases/wenting-li-rpi-give-curent-power-and-energy-seminar-fri-nov-1/)
 
 ## Research interests 
+* Trustworthy AI through Robust Training and Formal Verification
 * Physics-informed machine learning
 * Graph learning and graph neural networks
 * Robust optimization and verified neural networks
