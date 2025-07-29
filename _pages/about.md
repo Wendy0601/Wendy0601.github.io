@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Wenting Li is a Scientist at Los Alamos National Laboratory (LANL). She was a postdoc research associate of Center for Nonlinear Study and Theory-5 Division at LANL from 2020 to 2023. She obtained the Ph.D. degree in  Electrical Computer and System Engineering (ECSE) and Master degree in Applied Mathematics at the [Rensselaer Polytechnics Institute (RPI)](https://www.rpi.edu/) in Dec. 2019.  Her supervisor is Prof. [Meng Wang](https://ecse.rpi.edu/~wang/). Her doctoral thesis is about developing machine/deep learning based algorithms to enhancing power systems monitoring and protection. Before she came to RPI in 2015, she worked as a research assistant in the Wind Farm Research Center (WFRC) at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) under the supervison of [Prof. Xu Cai](http://eei.sjtu.edu.cn/en/Show.aspx?info_id=433&info_lb=329&flag=282). In 2013, she received her B.S. degree in Elcetrical Engineering and Automation from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/). 
+Wenting Li XX is a Research Scientist at The University of Texas at Austin. Previously, she was a Staff Scientist at Los Alamos National Laboratory (LANL) and a Postdoctoral Research Associate with LANL’s Center for Nonlinear Studies (CNLS) and Theoretical Division (T‑5) (2020–2023). She received her Ph.D. in Electrical, Computer, and Systems Engineering (ECSE) and an M.S. in Applied Mathematics from Rensselaer Polytechnic Institute (RPI) in December 2019 (advisor: [Meng Wang](https://ecse.rpi.edu/~wang/)), working on machine/deep learning for power system monitoring and protection. 
  
 ## News
+* 07/30/2025： Start a new Task Force in the IEEE **Trustworthy AI for Power Grid Reliability and Security (TAIPG)**.
 * 01/06/2025: Co-organize the 2025 Grid Science Winter School 2025 at Sante Fe. Invited Professors in formal verification and graph neural networks.
 * 12/21/2024: Accomplish the annual appraisal of the largest DI project on AI, introducing our poster and know about other research groups.
 * 11/03/2024: Present our latest work on formal verification for input space at LANL, receiving increasing attention and constructive feedback.
