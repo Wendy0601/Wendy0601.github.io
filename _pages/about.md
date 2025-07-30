@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Wenting Li XX is a Research Scientist at The University of Texas at Austin. Previously, she was a Staff Scientist at Los Alamos National Laboratory (LANL) and a Postdoctoral Research Associate with LANL’s Center for Nonlinear Studies (CNLS) and Theoretical Division (T‑5) (2020–2023). She received her Ph.D. in Electrical, Computer, and Systems Engineering (ECSE) and an M.S. in Applied Mathematics from Rensselaer Polytechnic Institute (RPI) in December 2019 (advisor: [Meng Wang](https://ecse.rpi.edu/~wang/)), working on machine/deep learning for power system monitoring and protection. 
+Wenting Li is a Research Scientist at The University of Texas at Austin. Previously, she was a Staff Scientist at Los Alamos National Laboratory (LANL) and a Postdoctoral Research Associate with LANL’s Center for Nonlinear Studies (CNLS) and Theoretical Division (T‑5) (2020–2023). She received her Ph.D. in Electrical, Computer, and Systems Engineering (ECSE) and an M.S. in Applied Mathematics from Rensselaer Polytechnic Institute (RPI) in December 2019 (advisor: [Meng Wang](https://ecse.rpi.edu/~wang/)), working on machine/deep learning for power system monitoring and protection. 
  
 ## News
 * 07/30/2025： Start a new Task Force in the IEEE **Trustworthy AI for Power Grid Reliability and Security (TAIPG)**.
