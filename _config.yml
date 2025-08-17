@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenting Li"
 title_separator          : "-"
 name                     : &name "Wenting Li"
-description              : &description "Scientist at Los Alamos National Laboratory"
+description              : &description "Research Scientist UT Austin"
 url                      : https://Wendy0601.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wendy0601/Wendy0601.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             :   
   avatar           : "Wenting.JPG"
-  bio              : "Scientist at Los Alamos National Laboratory"
-  location         : "3269 Villa Str APT A, Los Alamos, 87544" 
+  bio              : "Research Scientist at UT Austin"
+  location         : "110 Inner Campus Dr, Austin, TX 78705" 
   employer         :
   googlescholar    :  https://scholar.google.com/citations?user=acgZVaoAAAAJ&hl=en
-  email            :  'wenting@lanl.gov'
+  email            :  'wenting.li@austin.utexas.edu'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
