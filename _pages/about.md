@@ -10,8 +10,9 @@ Wenting Li is a Research Scientist at **The University of Texas at Austin**. Bef
  
 ## News
 * **07/30/2025**: Launched a new IEEE Task Force on **Trustworthy AI for Power Grid Reliability and Security (TAIPG)**.  
-* **06/08/2025**: Our paper *LEVIS: Large Exact Verifiable Input Spaces for Neural Networks* ([arXiv:2408.08824](https://arxiv.org/abs/2408.08824)) was accepted at **ICML 2025**, with an excellent poster presentation by summer intern Mohammad.
-* **05/31/2025**：With the strong encouragement from DOE ASCR, we submitted the full proposal: *Exploring the Loss Landscape of Neural Networks for Improved\\ Training and Formal Verification of Foundation Models.
+* **06/08/2025**: Our paper ***LEVIS: Large Exact Verifiable Input Spaces for Neural Networks*** ([arXiv:2408.08824](https://arxiv.org/abs/2408.08824)) was accepted at **ICML 2025**, with an excellent poster presentation by summer intern Mohammad.
+* **05/1/2025**：With the strong encouragement from DOE **ASCR**, we submitted the full proposal: *Exploring the Loss Landscape of Neural Networks for Improved\\ Training and Formal Verification of Foundation Models.
+* **05/25/2025**: Presented at University of Texas at Austin: ***Trustworthy AI: Advancing Architecture Design, Robust Training, and Formal Verification**. 
 * **06/01/2025**: Grateful to join **The University of Texas at Austin** as a Research Scientist, working with Prof. Hao Zhu and her wonderful group.  
 * **01/06/2025**: Co-organized the **2025 Grid Science Winter School** in Santa Fe, featuring invited talks on formal verification and graph neural networks.  
 * **12/21/2024**: Completed the annual review of the largest LANL AI project, presenting our poster and connecting with other research groups.  
