@@ -1,11 +1,4 @@
-permalink: /
-title: "About Me"
-excerpt: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+--- permalink: / title: "About Me" excerpt: "About Me" author_profile: true redirect_from: - /about/ - /about.html ---
 Wenting Li is a Research Scientist at **The University of Texas at Austin**. Before joining UT Austin, she was a Staff Scientist at **Los Alamos National Laboratory (LANL)** and a Postdoctoral Research Associate with LANL’s **Center for Nonlinear Studies (CNLS)** and **Theoretical Division (T-5)** (2020–2023). She earned her Ph.D. in Electrical, Computer, and Systems Engineering (ECSE) and an M.S. in Applied Mathematics from **Rensselaer Polytechnic Institute (RPI)** in 2019, advised by [Meng Wang](https://ecse.rpi.edu/~wang/). Her doctoral research focused on applying machine and deep learning to power system monitoring and protection.
  
 ## News
