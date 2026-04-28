@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Wenting Li is a Research Scientist at **The University of Texas at Austin**. Before joining UT Austin, she was a Staff Scientist at **Los Alamos National Laboratory (LANL)** and a Postdoctoral Research Associate with LANL’s **Center for Nonlinear Studies (CNLS)** and **Theoretical Division (T-5)** (2020–2023). She earned her Ph.D. in Electrical, Computer, and Systems Engineering (ECSE) and an M.S. in Applied Mathematics from **Rensselaer Polytechnic Institute (RPI)** in 2019, advised by [Meng Wang](https://ecse.rpi.edu/~wang/). Her doctoral research focused on applying machine and deep learning to power system monitoring and protection.
+Wenting Li has been a Research Scientist at the Georgia Institute of Technology since 2026. Prior to joining Georgia Tech, she gained extensive research experience at the University of Texas at Austin and Los Alamos National Laboratory (LANL). She completed her postdoctoral training at LANL’s Center for Nonlinear Studies (CNLS) and Theoretical Division in 2023. She received her Ph.D. in Electrical Engineering and M.S. in Applied Mathematics from Rensselaer Polytechnic Institute (RPI) in 2019, where she was advised by Dr. [Meng Wang](https://ecse.rpi.edu/~wang/).
+ 
  
 ## News
+* **03/15/2026**: Joined AI4OPT at Georgia Institute of Technology. 
 * **07/30/2025**: Launched a new IEEE Task Force on **Trustworthy AI for Power Grid Reliability and Security (TAIPG)**.  
 * **06/08/2025**: Our paper ***LEVIS: Large Exact Verifiable Input Spaces for Neural Networks*** ([arXiv:2408.08824](https://arxiv.org/abs/2408.08824)) was accepted at **ICML 2025**, with an excellent poster presentation by summer intern Mohammad.
 * **05/1/2025**：With the strong encouragement from DOE **ASCR**, we submitted the full proposal: *Exploring the Loss Landscape of Neural Networks for Improved\\ Training and Formal Verification of Foundation Models.
